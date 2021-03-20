@@ -1,0 +1,15 @@
+/*CMD
+  command: /myadmin
+  help: 
+  need_reply: 
+  auto_retry_time: 
+  folder: 
+  answer: 
+  keyboard: 
+  aliases: 
+CMD*/
+
+var admin = "531216041"
+
+
+Bot.setProperty("admin",admin)
